@@ -16,7 +16,7 @@ const Nav = () => {
             </Link>
           </li>
           <li className={styles.navbarItem}>
-            <Link href="/movies" className={styles.navbarLink}>
+            <Link href="/movie" className={styles.navbarLink}>
               Movies
             </Link>
           </li>
